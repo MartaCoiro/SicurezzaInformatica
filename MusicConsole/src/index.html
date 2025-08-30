@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1" x>
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>MusicConsole</title>
+    
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <style>
+  
+    
+ul.nav {
+    margin:0;
+    padding:0;
+    list-style:none;
+    height:36px; line-height:36px;
+    background:#8f00ff; /* you can change the backgorund color here.  #0d7963 * Colore nav bar*/
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:20px;
+}
+ul.nav li {
+    border-right:1px solid #189b80; /* you can change the border color matching to your background color #189b80 */
+    float:left;
+   
+}
+ul.nav a {
+    display:block;
+    padding:0 28px;
+    color:#000000; /*Colore scritta Home e Order*/
+    text-decoration:none;
+    
+}
+ul.nav a:hover,
+ul.nav li.current a {
+    background:#6B3FA0; /*Sfondo bottoni barra sopra*/
+}
+
+h1{
+	font-size:60px;
+	font-family:Arial Black;
+}
+
+
+
+    </style>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/web3.min.js"></script>
+    <script src="js/truffle-contract.js"></script>
+    <script src="js/app.js"></script>
+
+  </head>
+  <body style="background-color:#9B6DC6">
+  
+
+  
+   <ul class="nav">
+  <li><a href="index.html">Home</a></li>
+  <li><a href="order.html">Order</a></li>
+</ul>
+ 
+
+    <div class="container">
+      <div class="row">
+        <div class="col-xs-12 col-sm-8 col-sm-push-2">
+        <img src="images/cuffie.gif" style="align-content: center", width = "750px">
+          <h1 class="text-center text-success", style="color:#000000" >MusicConsole</h1>
+          
+
+          
+          <hr/>
+          <br/>
+        </div>
+      </div>
+
+      <div id="gpusRow" class="row">
+        <!-- PETS LOAD HERE -->
+      </div>
+    </div>
+
+    <div id="gpuTemplate" style="display: none;">
+      <div class="col-sm-6 col-md-4 col-lg-3">
+        <div class="panel panel-default panel-pet">
+          <div class="panel-heading">
+          </div>
+          <div class="panel-body">
+            <img alt="140x140" data-src="holder.js/140x140" class="img-rounded img-center" style="width: 100%;" src="https://animalso.com/wp-content/uploads/2017/01/Golden-Retriever_6.jpg" data-holder-rendered="true">
+            <br/><br/>
+            <strong>Titolo</strong>: <span class="gpu-titolo"></span><br/>
+            <strong>Artista</strong>: <span class="gpu-artista"></span><br/>
+            <strong>Genere</strong>: <span class="gpu-genere"></span><br/>
+            <strong>Album</strong>: <span class="gpu-album"></span><br/><br/>
+            
+            
+            <button class="btn btn-default btn-adopt" type="button" data-id="0">Buy</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="panel-order">
+      <div class="order-title"></div>
+
+    </div>
+
+  </body>
+</html>

@@ -1,0 +1,163 @@
+[
+  {
+    "id": 0,
+    "titolo": "Ma stasera",
+    "picture": "images/img0.jpeg",
+    "artista": "Marco Mengoni",
+    "genere": "Disco Music, Funk, Pop",
+    "album": "Materia(Terra)"
+  },
+  {
+    "id": 1,
+    "titolo": "Il primo passo sulla luna",
+    "picture": "images/img1.jpg",
+    "artista": "Laura Pausini",
+    "genere": "Pop",
+    "album": "Anime parallele"
+  },
+  {
+    "id": 2,
+    "titolo": "L'inizio di una nuova era",
+    "picture": "images/img2.jpeg",
+    "artista": "Jovanotti",
+    "genere": "Pop",
+    "album": "Nuova era"
+  },
+  {
+    "id": 3,
+    "titolo": "Montagne Verdi",
+    "picture": "images/img3.jpeg",
+    "artista": "Marcella Bella",
+    "genere": "Disco Music, Funk, Pop",
+    "album": "Non hai idea dell'amore"
+  },
+  {
+    "id": 4,
+    "titolo": "Romeo and Juliet",
+    "picture": "images/img4.jpeg",
+    "artista": "Dire Straits",
+    "genere": "Disco Music, Funk, Pop",
+    "album": "Making Movies"
+  },
+  {
+    "id": 5,
+    "titolo": "I p' me, tu p' te",
+    "picture": "images/img5.jpeg",
+    "artista": "Geolier",
+    "genere": "hip-hop, rap",
+    "album": "I' P' ME, TU P' TE"
+  },
+  {
+    "id": 6,
+    "titolo": "Chimica",
+    "picture": "images/img6.jpg",
+    "artista": "Ditonellapiaga e Rettore",
+    "genere": "French Indie, Pop",
+    "album": "Camouflage"
+  },
+  {
+    "id": 7,
+    "titolo": "Tu no",
+    "picture": "images/img7.jpg",
+    "artista": "Irama",
+    "genere": "Hip-Hop, Rap",
+    "album": "Tu no"
+  },
+  {
+    "id": 8,
+    "titolo": "Tuta gold",
+    "picture": "images/img8.jpg",
+    "artista": "Mahmood",
+    "genere": "Alternative/Indie, Pop",
+    "album": "Nei letti degli altri"
+  },
+  {
+    "id": 9,
+    "titolo": "Estate",
+    "picture": "images/img9.jpg",
+    "artista": "Negramaro",
+    "genere": "Pop, Rock",
+    "album": "Mentre tutto scorre"
+  },
+  {
+    "id": 10,
+    "titolo": "Ridere",
+    "picture": "images/img10.jpg",
+    "artista": "Pinguini Tattici Nucleari",
+    "genere": "Pop",
+    "album": "Fuori dall'Hype Ringo Starr"
+  },
+  {
+    "id": 11,
+    "titolo": "Altalene",
+    "picture": "images/img11.jpg",
+    "artista": "Mr.Rain",
+    "genere": "Pop",
+    "album": "Pianeta di Miller"
+  },
+  {
+    "id": 12,
+    "titolo": "Io, me ed altri guai",
+    "picture": "images/img12.jpeg",
+    "artista": "Rose Villain",
+    "genere": "Hip-Hop, Rap, UK R&B",
+    "album": "Radio Sakura"
+  },
+  {
+    "id": 13,
+    "titolo": "Tango",
+    "picture": "images/img13.jpg",
+    "artista": "Tananai",
+    "genere": "Alternativa/Indie",
+    "album": "Tango"
+  },
+  {
+    "id": 14,
+    "titolo": "Apri tutte le porte",
+    "picture": "images/img14.jpg",
+    "artista": "Gianni Morandi",
+    "genere": "Pop",
+    "album": "Evvai!!"
+  },
+  {
+    "id": 15,
+    "titolo": "Casa Mia",
+    "picture": "images/img15.jpg",
+    "artista": "Ghali",
+    "genere": "Hip-Hop, Rap",
+    "album": "Casa Mia"
+  },
+  {
+    "id": 16,
+    "titolo": "Malafede",
+    "picture": "images/img16.jpg",
+    "artista": "Club Dogo",
+    "genere": "Hip-Hop, Rap",
+    "album": "Club Dogo"
+  },
+  {
+    "id": 17,
+    "titolo": "Notti in bianco",
+    "picture": "images/img17.jpg",
+    "artista": "Blanco",
+    "genere": "Hip-Hop, Rap",
+    "album": "Notti in bianco"
+  },
+  {
+    "id": 18,
+    "titolo": "Sinceramente",
+    "picture": "images/img18.jpg",
+    "artista": "Annalisa",
+    "genere": "Pop",
+    "album": "Sinceramente"
+  },
+  {
+    "id": 19,
+    "titolo": "La noia",
+    "picture": "images/img19.jpg",
+    "artista": "Angelina Mango",
+    "genere": "Pop",
+    "album": "La noia"
+  }
+]
+
